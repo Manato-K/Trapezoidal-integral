@@ -18,3 +18,17 @@ int main(void)
     S*=h;
     printf("divide:%2d, S=%f\n",n,S);
 }
+
+/*
+input n:5
+divide: 5, S=0.744368
+
+input n:10
+divide:10, S=0.746211
+
+input n:20
+divide:20, S=0.746671
+
+input n:40
+divide:40, S=0.746786
+*/
